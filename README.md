@@ -3,7 +3,6 @@
 #Thank you for downloading the Choclate landing page i hope you like it 😊😊
 
 This is built and taught from a Udemy Course [PSD to Responsive HTML5: Beginner to Advanced](https://www.udemy.com/course/psd-to-html5-beginner-to-advanced/)
-You will find the PSD file 
 
 #About me :
 Hi, my name is Zakaria Latif i'm a web developper based in morocco
