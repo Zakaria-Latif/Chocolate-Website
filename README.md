@@ -1,6 +1,7 @@
 # Chocolate-Website
 
 #Thank you for downloading the Choclate landing page i hope you like it 😊😊
+You can see the live version here : [chocolate-dessert](https://chocolate-dessert.netlify.app/)
 
 This is built and taught from a Udemy Course [PSD to Responsive HTML5: Beginner to Advanced](https://www.udemy.com/course/psd-to-html5-beginner-to-advanced/)
 
